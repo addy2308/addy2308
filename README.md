@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @addy2308
 - 👀 I’m interested in technicalities and the realms of computer science.
-- 🌱 I’m currently learning DSA in C.
+- 🌱 C, C++, Java, Python, HTML, SQL, Javascript
   
 
 
