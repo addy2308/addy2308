@@ -1,9 +1,6 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1a2e&height=200&section=header&text=ADYASA%20PRIYADARSHINI&fontSize=38&fontColor=e6edf3&fontAlignY=38&desc=Systems%20Engineer%20%C2%B7%20ML%20Practitioner%20%C2%B7%20Competitive%20Programmer&descSize=14&descAlignY=60&descColor=8b949e&animation=fadeIn&fontFamily=Trebuchet%20MS"/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f6f8fa,100:eaeef2&height=200&section=header&text=ADYASA%20PRIYADARSHINI&fontSize=38&fontColor=1f2328&fontAlignY=38&desc=Systems%20Engineer%20%C2%B7%20ML%20Practitioner%20%C2%B7%20Competitive%20Programmer&descSize=14&descAlignY=60&descColor=57606a&animation=fadeIn&fontFamily=Trebuchet%20MS"/>
-</picture>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=240&section=header&text=Adyasa%20Priyadarshini&fontSize=46&fontColor=ffffff&fontAlignY=42&fontAlign=50&desc=ComputerScience%20Undergraduate%20%E2%80%A2%20AI/ML%20Practitioner%20%E2%80%A2%20Competitive%20Programmer&descSize=15&descAlignY=64&descAlign=50&descColor=c9d1d9&animation=twinkling" alt="header"/>
 
 <br/>
 
@@ -184,16 +181,46 @@ Distributed NLP at scale — fault-tolerant REST API surface, algorithmic infere
 
 <br/>
 
+## ◈ &nbsp; Languages
+
 <div align="center">
 
-`Odia` &nbsp;&nbsp;·&nbsp;&nbsp; `English` &nbsp;&nbsp;·&nbsp;&nbsp; `Hindi` &nbsp;&nbsp;·&nbsp;&nbsp; `Bengali`
+<table>
+<tr>
+  <td align="center" width="160">
+    <img src="https://flagcdn.com/w40/in.png" width="36" alt="India"/><br/>
+    <b>Odia</b><br/>
+    <sub>Native &nbsp;·&nbsp; Mother Tongue</sub>
+  </td>
+  <td align="center" width="160">
+    <img src="https://flagcdn.com/w40/gb.png" width="36" alt="English"/><br/>
+    <b>English</b><br/>
+    <sub>Full Professional Proficiency</sub>
+  </td>
+  <td align="center" width="160">
+    <img src="https://flagcdn.com/w40/in.png" width="36" alt="India"/><br/>
+    <b>Hindi</b><br/>
+    <sub>Full Professional Proficiency</sub>
+  </td>
+  <td align="center" width="160">
+    <img src="https://flagcdn.com/w40/in.png" width="36" alt="India"/><br/>
+    <b>Bengali</b><br/>
+    <sub>Full Professional Proficiency</sub>
+  </td>
+</tr>
+</table>
+
+</div>
 
 <br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0d1117&height=120&section=footer&fontColor=8b949e"/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:eaeef2,100:f6f8fa&height=120&section=footer"/>
-</picture>
+---
+
+<br/>
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=140&section=footer&animation=twinkling" alt="footer"/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=addy2308&color=58a6ff&style=flat-square&label=profile+views)
 
