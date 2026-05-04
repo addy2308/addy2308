@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=240&section=header&text=Adyasa%20Priyadarshini&fontSize=46&fontColor=ffffff&fontAlignY=42&fontAlign=50&desc=ComputerScience%20Undergraduate%20%E2%80%A2%20AI/ML%20Practitioner%20%E2%80%A2%20Competitive%20Programmer&descSize=15&descAlignY=64&descAlign=50&descColor=c9d1d9&animation=twinkling" alt="header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4a3030,25:6b4c4c,50:8b6a5a,75:7a4a5a,100:5a3545&height=220&section=header&text=Adyasa%20Priyadarshini&fontSize=48&fontColor=f5ede8&fontAlignY=40&fontAlign=50&desc=CSE%20Undergraduate%20%E2%80%A2%20AI/ML%20Practitioner%20%E2%80%A2%20Competitive%20Programmer&descSize=15&descAlignY=62&descAlign=50&descColor=e8d0c8" alt="Adyasa Priyadarshini"/>
 
 <br/>
 
@@ -113,13 +113,13 @@ Distributed NLP at scale — fault-tolerant REST API surface, algorithmic infere
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=addy2308&show_icons=true&hide_border=false&include_all_commits=true&count_private=true&theme=github_dark&title_color=e6edf3&icon_color=58a6ff&text_color=8b949e&bg_color=0d1117&border_color=30363d&border_radius=8"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=addy2308&show_icons=true&hide_border=false&include_all_commits=true&count_private=true&theme=github_dark&title_color=f5ede8&icon_color=c0614a&text_color=b89a90&bg_color=0d0a0f&border_color=6b3a3a&border_radius=8"/>
 &nbsp;
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=addy2308&layout=compact&hide_border=false&theme=github_dark&title_color=e6edf3&text_color=8b949e&bg_color=0d1117&border_color=30363d&border_radius=8"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=addy2308&layout=compact&hide_border=false&theme=github_dark&title_color=f5ede8&text_color=b89a90&bg_color=0d0a0f&border_color=6b3a3a&border_radius=8"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=addy2308&theme=github-dark-blue&hide_border=false&border_radius=8&border=30363d&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=e6edf3&sideLabels=8b949e&dates=8b949e&stroke=30363d"/>
+<img src="https://streak-stats.demolab.com/?user=addy2308&hide_border=false&border_radius=8&border=6b3a3a&background=0d0a0f&ring=c0614a&fire=e8743a&currStreakLabel=f5ede8&sideLabels=b89a90&dates=b89a90&stroke=6b3a3a"/>
 
 </div>
 
@@ -185,34 +185,36 @@ Distributed NLP at scale — fault-tolerant REST API surface, algorithmic infere
 
 <div align="center">
 
+<br/>
+
 <table>
-<tr>
-  <td align="center" width="160">
-    <img src="https://flagcdn.com/w40/in.png" width="36" alt="India"/><br/>
-    <b>Odia</b><br/>
-    <sub>Native &nbsp;·&nbsp; Mother Tongue</sub>
-  </td>
-  <td align="center" width="160">
-    <img src="https://flagcdn.com/w40/gb.png" width="36" alt="English"/><br/>
-    <b>English</b><br/>
-    <sub>Full Professional Proficiency</sub>
-  </td>
-  <td align="center" width="160">
-    <img src="https://flagcdn.com/w40/in.png" width="36" alt="India"/><br/>
-    <b>Hindi</b><br/>
-    <sub>Full Professional Proficiency</sub>
-  </td>
-  <td align="center" width="160">
-    <img src="https://flagcdn.com/w40/in.png" width="36" alt="India"/><br/>
-    <b>Bengali</b><br/>
-    <sub>Full Professional Proficiency</sub>
-  </td>
-</tr>
+  <tr>
+    <td align="center" width="180">
+      <img src="https://flagcdn.com/w40/in.png" width="40" alt="Odia"/><br/><br/>
+      <b>Odia</b><br/>
+      <sub>🟤 Native &nbsp;·&nbsp; Mother Tongue</sub>
+    </td>
+    <td align="center" width="180">
+      <img src="https://flagcdn.com/w40/gb.png" width="40" alt="English"/><br/><br/>
+      <b>English</b><br/>
+      <sub>🔴 Full Professional Proficiency</sub>
+    </td>
+    <td align="center" width="180">
+      <img src="https://flagcdn.com/w40/in.png" width="40" alt="Hindi"/><br/><br/>
+      <b>Hindi</b><br/>
+      <sub>🔴 Full Professional Proficiency</sub>
+    </td>
+    <td align="center" width="180">
+      <img src="https://flagcdn.com/w40/in.png" width="40" alt="Bengali"/><br/><br/>
+      <b>Bengali</b><br/>
+      <sub>🔴 Full Professional Proficiency</sub>
+    </td>
+  </tr>
 </table>
 
-</div>
-
 <br/>
+
+</div>
 
 ---
 
@@ -220,8 +222,8 @@ Distributed NLP at scale — fault-tolerant REST API surface, algorithmic infere
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=140&section=footer&animation=twinkling" alt="footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:5a3545,25:7a4a5a,50:8b6a5a,75:6b4c4c,100:4a3030&height=140&section=footer" alt="footer"/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=addy2308&color=58a6ff&style=flat-square&label=profile+views)
+![Profile Views](https://komarev.com/ghpvc/?username=addy2308&color=c0614a&style=flat-square&label=profile+views)
 
 </div>
