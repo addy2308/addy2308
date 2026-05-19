@@ -30,56 +30,6 @@
 
 <br/>
 
-## ◈ &nbsp; Projects
-
-<br/>
-
-### Smart Attendance Alert System &nbsp;—&nbsp; `SAMS`
-
-`Python` &nbsp;`Java` &nbsp;`Flask` &nbsp;`React.js` &nbsp;`MySQL` &nbsp;`AWS EC2 / S3 / RDS / Lambda` &nbsp;`Docker` &nbsp;`FaceNet512`
-
-<table>
-<tr><td><b>97.4%</b></td><td>facial verification accuracy via FaceNet512 deep learning</td></tr>
-<tr><td><b>99.5%</b></td><td>proxy prevention effectiveness across distributed multi-node usage</td></tr>
-<tr><td><b>90%</b></td><td>reduction in faculty overhead — 25–30 min sessions cut to 2–3 min</td></tr>
-</table>
-
-Fault-tolerant multi-tier authentication on AWS with distributed storage, automated reporting pipelines, and concurrent session handling at low latency. Docker containerised end-to-end.
-
-<br/>
-
-### Smart Traffic Management System &nbsp;—&nbsp; `STMS`
-
-`Python` &nbsp;`Java` &nbsp;`Flask` &nbsp;`JavaScript` &nbsp;`AWS` &nbsp;`SQLite` &nbsp;`YOLOv8` &nbsp;`REST APIs`
-
-<table>
-<tr><td><b>YOLOv8</b></td><td>real-time vehicle detection on distributed AWS compute</td></tr>
-<tr><td><b>SQLite</b></td><td>distributed index built for high-throughput traffic event logging</td></tr>
-<tr><td><b>Dynamic</b></td><td>signal optimisation via complexity-analysed, query-optimised data layer</td></tr>
-</table>
-
-Scalable Flask microservices running real-time AI predictions. REST APIs bridging distributed services with algorithmic complexity analysis baked into every query path.
-
-<br/>
-
-### Multilingual Sentiment Microservice
-
-`Python` &nbsp;`PyTorch` &nbsp;`Hugging Face BERT` &nbsp;`Flask` &nbsp;`AWS Lambda` &nbsp;`REST APIs`
-
-<table>
-<tr><td><b>89%</b></td><td>accuracy via fine-tuned BERT across English, Hindi, and Bengali</td></tr>
-<tr><td><b>3</b></td><td>languages — one unified serverless inference endpoint</td></tr>
-<tr><td><b>AWS Lambda</b></td><td>serverless deployment with memory-efficient batching under load</td></tr>
-</table>
-
-Distributed NLP at scale — fault-tolerant REST API surface, algorithmic inference optimisation, and production-grade cost management baked in from day one.
-
-<br/>
-
----
-
-<br/>
-
 ## ◈ &nbsp; Stack
 
 ```
