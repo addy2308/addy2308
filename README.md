@@ -89,13 +89,6 @@
 
 <br/>
 
-| Metric | Value |
-|---|---|
-| Problems Solved | **501** — Easy 95 &nbsp;·&nbsp; Medium 285 &nbsp;·&nbsp; Hard 121 |
-| Global Rank | **#188,743** &nbsp;·&nbsp; Top 28% |
-| Contest Rating | **1571** |
-| Competition | ICPC Regional Qualifier 2025 |
-
 <br/>
 
 ---
