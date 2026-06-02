@@ -59,26 +59,6 @@
 
 <br/>
 
-## ◈ &nbsp; GitHub
-
-<div align="center">
-
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=addy2308&show_icons=true&hide_border=false&include_all_commits=true&count_private=true&theme=github_dark&title_color=f5ede8&icon_color=c0614a&text_color=b89a90&bg_color=0d0a0f&border_color=6b3a3a&border_radius=8"/>
-&nbsp;
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=addy2308&layout=compact&hide_border=false&theme=github_dark&title_color=f5ede8&text_color=b89a90&bg_color=0d0a0f&border_color=6b3a3a&border_radius=8"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com/?user=addy2308&hide_border=false&border_radius=8&border=6b3a3a&background=0d0a0f&ring=c0614a&fire=e8743a&currStreakLabel=f5ede8&sideLabels=b89a90&dates=b89a90&stroke=6b3a3a"/>
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
 ## ◈ &nbsp; Competitive Programming
 
 <div align="center">
