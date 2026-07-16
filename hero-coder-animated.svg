@@ -1,0 +1,190 @@
+<svg viewBox="0 0 720 480" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgWarm" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#3a2418"/>
+      <stop offset="45%" stop-color="#5a3320"/>
+      <stop offset="100%" stop-color="#2a1810"/>
+    </linearGradient>
+    <radialGradient id="lampGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#ffd89a" stop-opacity="0.9"/>
+      <stop offset="60%" stop-color="#ffb347" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#ffb347" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="skin2" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#f2c9a0"/>
+      <stop offset="100%" stop-color="#e0a878"/>
+    </linearGradient>
+    <linearGradient id="hairMain" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#8a5a34"/>
+      <stop offset="50%" stop-color="#6b4423"/>
+      <stop offset="100%" stop-color="#4a2f18"/>
+    </linearGradient>
+    <linearGradient id="sweater" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#faf6ee"/>
+      <stop offset="100%" stop-color="#e2dccd"/>
+    </linearGradient>
+    <linearGradient id="deskWood" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#6b4226"/>
+      <stop offset="100%" stop-color="#3f2814"/>
+    </linearGradient>
+    <linearGradient id="screenGlow2" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#fff7e6"/>
+      <stop offset="100%" stop-color="#ffd89a"/>
+    </linearGradient>
+    <filter id="blurSoft" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="8"/>
+    </filter>
+    <filter id="blurTiny" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="2"/>
+    </filter>
+  </defs>
+
+  <rect width="720" height="480" rx="18" fill="url(#bgWarm)"/>
+
+  <!-- corkboard hints -->
+  <g opacity="0.55">
+    <rect x="470" y="20" width="220" height="200" rx="6" fill="#7a5a3a" opacity="0.4"/>
+    <rect x="495" y="40" width="45" height="35" rx="2" fill="#e8dcc0" transform="rotate(-6 517 57)"/>
+    <rect x="560" y="55" width="40" height="30" rx="2" fill="#d97a5a" transform="rotate(5 580 70)"/>
+    <rect x="620" y="35" width="42" height="32" rx="2" fill="#e8dcc0" transform="rotate(8 641 51)"/>
+    <rect x="505" y="110" width="38" height="28" rx="2" fill="#f0d060" transform="rotate(-4 524 124)"/>
+    <rect x="600" y="120" width="40" height="30" rx="2" fill="#e8dcc0" transform="rotate(3 620 135)"/>
+  </g>
+
+  <!-- floating bokeh particles -->
+  <g filter="url(#blurSoft)">
+    <circle cx="90" cy="70" r="22" fill="#ffb347" opacity="0.25">
+      <animate attributeName="opacity" values="0.15;0.4;0.15" dur="4s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="650" cy="300" r="18" fill="#ffd89a" opacity="0.2">
+      <animate attributeName="opacity" values="0.1;0.35;0.1" dur="5s" begin="1s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="60" cy="360" r="14" fill="#ff9d6c" opacity="0.2">
+      <animate attributeName="opacity" values="0.1;0.3;0.1" dur="3.5s" begin="0.5s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- desk lamp -->
+  <g transform="translate(60,40)">
+    <circle cx="70" cy="70" r="60" fill="url(#lampGlow)">
+      <animate attributeName="r" values="55;65;55" dur="3s" repeatCount="indefinite"/>
+    </circle>
+    <path d="M10 220 L20 30" stroke="#2a2018" stroke-width="6" stroke-linecap="round"/>
+    <path d="M20 30 L70 55" stroke="#2a2018" stroke-width="6" stroke-linecap="round"/>
+    <ellipse cx="72" cy="58" rx="26" ry="14" fill="#3a2c20" transform="rotate(20 72 58)"/>
+    <circle cx="10" cy="222" r="10" fill="#2a2018"/>
+  </g>
+
+  <!-- desk -->
+  <path d="M0 380 L720 380 L720 480 L0 480 Z" fill="url(#deskWood)"/>
+  <rect x="0" y="378" width="720" height="6" fill="#8a5a34" opacity="0.6"/>
+
+  <!-- stack of books -->
+  <g transform="translate(20,340)">
+    <rect x="0" y="20" width="90" height="18" rx="3" fill="#7a3a3a"/>
+    <rect x="6" y="4" width="78" height="18" rx="3" fill="#3a5a4a"/>
+  </g>
+
+  <!-- coffee cup + steam -->
+  <g transform="translate(600,300)">
+    <ellipse cx="26" cy="0" rx="26" ry="6" fill="#2a1810"/>
+    <path d="M2 2 L8 46 Q10 54 20 54 L32 54 Q42 54 44 46 L50 2 Z" fill="#f5f0e6" stroke="#c9c0ac" stroke-width="1.5"/>
+    <path d="M44 10 Q60 12 58 26 Q56 36 44 34" fill="none" stroke="#f5f0e6" stroke-width="4"/>
+    <g stroke="#fff" stroke-width="2.5" fill="none" opacity="0.5" filter="url(#blurTiny)">
+      <path d="M14 -4 Q8 -18 16 -30 Q22 -38 16 -50">
+        <animate attributeName="opacity" values="0;0.6;0" dur="3s" repeatCount="indefinite"/>
+      </path>
+      <path d="M30 -4 Q24 -20 32 -30 Q38 -40 32 -52">
+        <animate attributeName="opacity" values="0;0.6;0" dur="3s" begin="1s" repeatCount="indefinite"/>
+      </path>
+    </g>
+  </g>
+
+  <!-- laptop -->
+  <g transform="translate(150,270)">
+    <path d="M-20 100 L340 100 L360 122 L-40 122 Z" fill="#3a2c20"/>
+    <path d="M0 -20 L300 -20 L316 100 L-16 100 Z" fill="#2a2018"/>
+    <rect x="4" y="-8" width="292" height="98" rx="4" fill="url(#screenGlow2)">
+      <animate attributeName="opacity" values="0.9;1;0.9" dur="3.2s" repeatCount="indefinite"/>
+    </rect>
+    <g stroke="#a06840" stroke-width="1.6" fill="none" opacity="0.55">
+      <path d="M30 10 L110 10 M30 24 L150 24 M30 38 L90 38"/>
+      <rect x="170" y="6" width="60" height="42" rx="3"/>
+      <path d="M30 60 L250 60 M30 72 L200 72"/>
+    </g>
+  </g>
+
+  <!-- arms resting on desk -->
+  <g transform="translate(230,300)">
+    <path d="M-30 90 Q-10 30 60 20 Q90 15 110 30 L100 55 Q80 45 60 50 Q20 60 10 95 Z" fill="url(#sweater)"/>
+    <path d="M290 90 Q270 30 200 20 Q170 15 150 30 L160 55 Q180 45 200 50 Q240 60 250 95 Z" fill="url(#sweater)"/>
+    <ellipse cx="65" cy="18" rx="24" ry="16" fill="url(#skin2)"/>
+    <ellipse cx="195" cy="18" rx="24" ry="16" fill="url(#skin2)"/>
+  </g>
+
+  <!-- head group with gentle bob -->
+  <g transform="translate(360,150)">
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0,0;0,-5;0,0" keyTimes="0;0.5;1" dur="3.6s" repeatCount="indefinite"/>
+
+      <!-- back hair -->
+      <path d="M-95 10 Q-110 90 -70 150 Q-40 175 0 178 Q40 175 70 150 Q110 90 95 10 Q80 -55 0 -60 Q-80 -55 -95 10 Z" fill="url(#hairMain)"/>
+
+      <!-- shoulders / sweater collar -->
+      <path d="M-60 120 Q0 100 60 120 Q70 150 60 170 L-60 170 Q-70 150 -60 120 Z" fill="url(#sweater)"/>
+      <path d="M-14 118 L0 132 L14 118" fill="none" stroke="#c9c0ac" stroke-width="3"/>
+
+      <!-- neck -->
+      <rect x="-16" y="70" width="32" height="35" rx="10" fill="url(#skin2)"/>
+
+      <!-- face -->
+      <ellipse cx="0" cy="20" rx="58" ry="62" fill="url(#skin2)"/>
+
+      <!-- fringe -->
+      <path d="M-55 -10 Q0 -65 55 -10 Q40 -35 0 -38 Q-40 -35 -55 -10 Z" fill="url(#hairMain)"/>
+
+      <!-- loose swaying strand left -->
+      <g>
+        <animateTransform attributeName="transform" type="rotate" values="-3 -55 0; 4 -55 0; -3 -55 0" dur="2.6s" repeatCount="indefinite"/>
+        <path d="M-55 0 Q-80 40 -60 90 Q-50 110 -35 100 Q-55 70 -50 40 Q-48 15 -55 0 Z" fill="url(#hairMain)"/>
+      </g>
+      <!-- loose swaying strand right -->
+      <g>
+        <animateTransform attributeName="transform" type="rotate" values="3 55 0; -4 55 0; 3 55 0" dur="2.9s" begin="0.3s" repeatCount="indefinite"/>
+        <path d="M55 0 Q80 40 60 90 Q50 110 35 100 Q55 70 50 40 Q48 15 55 0 Z" fill="url(#hairMain)"/>
+      </g>
+
+      <!-- glasses -->
+      <g stroke="#241a12" stroke-width="4" fill="#241a12" fill-opacity="0.06">
+        <circle cx="-24" cy="22" r="21"/>
+        <circle cx="24" cy="22" r="21"/>
+        <line x1="-3" y1="20" x2="3" y2="20"/>
+        <line x1="-45" y1="18" x2="-58" y2="10"/>
+        <line x1="45" y1="18" x2="58" y2="10"/>
+      </g>
+
+      <!-- eyes with blink -->
+      <g>
+        <circle cx="-24" cy="24" r="7" fill="#3a2415"/>
+        <circle cx="24" cy="24" r="7" fill="#3a2415"/>
+        <circle cx="-22" cy="21" r="2" fill="#fff"/>
+        <circle cx="26" cy="21" r="2" fill="#fff"/>
+        <ellipse cx="-24" cy="24" rx="9" ry="0.4" fill="url(#skin2)">
+          <animate attributeName="ry" values="0.4;0.4;9;0.4;0.4" keyTimes="0;0.88;0.92;0.96;1" dur="4.2s" repeatCount="indefinite"/>
+        </ellipse>
+        <ellipse cx="24" cy="24" rx="9" ry="0.4" fill="url(#skin2)">
+          <animate attributeName="ry" values="0.4;0.4;9;0.4;0.4" keyTimes="0;0.88;0.92;0.96;1" dur="4.2s" repeatCount="indefinite"/>
+        </ellipse>
+      </g>
+
+      <!-- soft blush -->
+      <ellipse cx="-38" cy="42" rx="9" ry="6" fill="#e88a6a" opacity="0.35"/>
+      <ellipse cx="38" cy="42" rx="9" ry="6" fill="#e88a6a" opacity="0.35"/>
+
+      <!-- smile -->
+      <path d="M-16 50 Q0 60 16 50" stroke="#5a3020" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+    </g>
+  </g>
+
+  <rect x="3" y="3" width="714" height="474" rx="16" fill="none" stroke="#ffb347" stroke-opacity="0.3" stroke-width="1.5"/>
+</svg>
