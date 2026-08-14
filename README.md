@@ -21,42 +21,8 @@
 <br/>
 
 ```
-# 👋 Hi, I'm Adyasa
 
-### 🚀 Building smart, scalable systems
 
-<p align="center">
-  <!-- Typing SVG animation: "hi I'm Adyasa... i build smart scalable systems" -->
-  <a href="https://github.com/Adyasa">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=hi+I'm+Adyasa...;I+build+smart+scalable+systems" alt="Typing SVG" />
-  </a>
-</p>
-
-<!-- Girl typing rapidly – replace the GIF URL with your own animated image -->
-<p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Girl typing rapidly on a keyboard" width="400" />
-  <br />
-  <em>(Replace this GIF with your own animated image of a girl typing)</em>
-</p>
-
----
-
-## 🌟 About Me
-
-- 🔭 I’m currently working on **distributed systems & cloud-native architectures**
-- 🌱 I’m deep-diving into **Kubernetes, Go, and event-driven microservices**
-- 👯 I’m looking to collaborate on **open-source projects that scale**
-- 💬 Ask me about **system design, performance optimisation, and clean code**
-- 📫 How to reach me: **[adyasa@example.com](mailto:adyasa@example.com)**
-- ⚡ Fun fact: I can type >120 WPM while debugging production issues 😄
-
----
-
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
