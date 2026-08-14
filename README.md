@@ -21,133 +21,81 @@
 <br/>
 
 ```
-┌──(adyasa㉿kiit-university)-[~/portfolio]
-└─$ cat about.txt
-```
+# 👋 Hi, I'm Adyasa
 
-> *Building systems that survive chaos, scale without apology, and serve people — not just benchmarks.*
+### 🚀 Building smart, scalable systems
 
-```yaml
-About Me:
-  name: "Adyasa Priyadarshini"
-  pronouns: "she / her"
-  role: "CSE Undergraduate @ KIIT University, Class of 2027"
-  languages_spoken: "Odia (native) · English · Hindi · Bengali"
-  certified: "AWS ML Specialty"
-  competitive: "ICPC Regional Qualifier · 500+ LeetCode solved"
-  currently_building: "Multi-agent AI platforms & RAG-based systems"
-  currently_hunting: "AI/ML + full-stack internships"
-  ask_me_about: "RAG pipelines, competitive programming, debate"
-  fun_fact: "20+ debate/elocution wins, still overthinks one Slack message"
-```
-
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1800&pause=600&color=7a4a5a&center=true&vCenter=true&width=400&lines=▼+scroll+for+more+▼" />
-</div>
-
-<br/>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:4a2f3a,100:0a0a0f&height=70&section=header&text=Tools%20%26%20Tech&fontSize=26&fontColor=00FFF2&fontAlignY=45&animation=fadeIn"/>
-</div>
-
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" height="45"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45" height="45"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="45" height="45"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" height="45"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="45" height="45"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45" height="45"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="45" height="45"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="45" height="45"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="45" height="45"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45" height="45"/>
+<p align="center">
+  <!-- Typing SVG animation: "hi I'm Adyasa... i build smart scalable systems" -->
+  <a href="https://github.com/Adyasa">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=hi+I'm+Adyasa...;I+build+smart+scalable+systems" alt="Typing SVG" />
+  </a>
 </p>
 
-<br/>
+<!-- Girl typing rapidly – replace the GIF URL with your own animated image -->
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Girl typing rapidly on a keyboard" width="400" />
+  <br />
+  <em>(Replace this GIF with your own animated image of a girl typing)</em>
+</p>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:4a2f3a,100:0a0a0f&height=70&section=header&text=Build%20Log&fontSize=26&fontColor=FFB000&fontAlignY=45&animation=fadeIn"/>
-</div>
+---
 
-```diff
-+ NutriRAG-Pro — multilingual RAG diet-recommendation chatbot (IEEE paper, 4 authors)
-+ Data Centre EPC Intelligence — multi-agent platform, ET AI Hackathon 2026
-+ DocVault AI — RAG document-intelligence engine, 40/40 unit tests passing
-+ Jan Awaaz — multilingual civic grievance system, 9-stage AI pipeline
-+ CrossSell IQ — XGBoost propensity engine with SHAP explainability
-+ Dead Data Detective — multi-agent forensics tool, Microsoft Build Hackathon
-! status: still shipping, still overthinking the commit messages
-```
+## 🌟 About Me
 
-<br/>
+- 🔭 I’m currently working on **distributed systems & cloud-native architectures**
+- 🌱 I’m deep-diving into **Kubernetes, Go, and event-driven microservices**
+- 👯 I’m looking to collaborate on **open-source projects that scale**
+- 💬 Ask me about **system design, performance optimisation, and clean code**
+- 📫 How to reach me: **[adyasa@example.com](mailto:adyasa@example.com)**
+- ⚡ Fun fact: I can type >120 WPM while debugging production issues 😄
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:4a2f3a,100:0a0a0f&height=70&section=header&text=GitHub%20Stats&fontSize=26&fontColor=00FFF2&fontAlignY=45&animation=fadeIn"/>
-</div>
+---
 
-<div align="center">
+## 🛠️ Tech Stack
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=addy2308&show_icons=true&hide_border=true&bg_color=0a0a0f&title_color=00FFF2&text_color=f5ede8&icon_color=FFB000&ring_color=FFB000"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=addy2308&layout=compact&hide_border=true&bg_color=0a0a0f&title_color=00FFF2&text_color=f5ede8&langs_count=8"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+</p>
 
-<br/>
+---
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=addy2308&hide_border=true&background=0a0a0f&ring=FFB000&fire=00FFF2&currStreakLabel=f5ede8&sideLabels=f5ede8&currStreakNum=00FFF2&sideNums=f5ede8&dates=7a4a5a"/>
+## 📊 GitHub Stats
 
-<br/><br/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Adyasa&show_icons=true&theme=radical" alt="Adyasa's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adyasa&theme=radical" alt="GitHub Streak" />
+</p>
 
-<img src="https://github-profile-trophy.vercel.app/?username=addy2308&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7"/>
+---
 
-</div>
+## 📝 Latest Blog Posts
 
-<br/>
+<!-- BLOG-POST-LIST:START -->
+- [Building Resilient Microservices with Kubernetes and Istio](https://example.com/post1)
+- [Event Sourcing vs. CQRS: When to Use What](https://example.com/post2)
+- [Optimising Go Garbage Collection for High‑Throughput Systems](https://example.com/post3)
+<!-- BLOG-POST-LIST:END -->
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:4a2f3a,100:0a0a0f&height=70&section=header&text=Contribution%20Snake&fontSize=26&fontColor=FFB000&fontAlignY=45&animation=fadeIn"/>
-</div>
+---
 
-<div align="center">
+## 🤝 Let's Connect
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/addy2308/addy2308/output/github-contribution-grid-snake-dark.svg"/>
-  <img src="https://raw.githubusercontent.com/addy2308/addy2308/output/github-contribution-grid-snake.svg"/>
-</picture>
+<p align="center">
+  <a href="https://linkedin.com/in/adyasa"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/adyasa"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://dev.to/adyasa"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" /></a>
+</p>
 
-</div>
+---
 
-<!--
-  ↑ This animation is powered by a GitHub Actions workflow (main.yml) that lives
-  at .github/workflows/main.yml in this same repo — it can't be triggered by a
-  README alone. Add that file once, run it, and this fills in automatically.
--->
-
-<br/>
-
-<div align="center">
-
-```
-> echo "she debugs distributed systems by day,
-        wins debate rounds by evening,
-        and still finds time to overthink one Slack message."
-```
-
-<img src="https://komarev.com/ghpvc/?username=addy2308&color=FFB000&style=for-the-badge&label=PROFILE+VIEWS"/>
-
-<br/><br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,25:2b1c2e,50:4a2f3a,75:2b1c2e,100:0a0a0f&height=140&section=footer&animation=fadeIn"/>
-
-</div>
+<p align="center">
+  <i>“Simplicity is the ultimate sophistication.” – Leonardo da Vinci</i>
+</p>
